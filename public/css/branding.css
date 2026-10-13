@@ -1,0 +1,6 @@
+/* Original brand artwork: no recolouring, cropping or duplicate wordmarks. */
+.site-header .brand img,.landing-page .site-header .brand img{width:auto;height:64px;max-width:145px;object-fit:contain;filter:none}
+.footer-wordmark{display:inline-block}.footer-wordmark img{width:140px;height:auto;filter:none}
+.tea-card-image img[src$="tehani-logo-dark.png"]{width:55%;height:55%;object-fit:contain;filter:none}
+.gallery-main img[src$="tehani-logo-dark.png"],.thumbnails img[src$="tehani-logo-dark.png"]{filter:none;object-fit:contain}
+@media(max-width:767px){.site-header .brand img,.landing-page .site-header .brand img{height:52px;max-width:100px}}
